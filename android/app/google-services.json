@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "975277391882",
+    "firebase_url": "https://chat-ionic-examen-default-rtdb.firebaseio.com",
+    "project_id": "chat-ionic-examen",
+    "storage_bucket": "chat-ionic-examen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975277391882:android:c12dc6e5fc2db349f1dff3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgtYas7jFhg_LanUGjxIkXNyOikTuXU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
